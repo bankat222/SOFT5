@@ -32,7 +32,7 @@
 #### 3.3. Kết quả đạt được
 - Điểm số: 8130
 - Ảnh chụp kết quả có kèm dấu hiệu cá nhân (đăng nhập Chrome - và mail sinh viên trong ô sign up )
-- Kết quả/Minh chứng:
+- Kết quả/Minh chứng: (https://raw.githubusercontent.com/bankat222/SOFT5/refs/heads/main/123.png)
 --------------------------------------------------------------------------------------------------------
 ### 4. Nhận xét – Đánh giá
 - Website cantunsee.space giúp người học nhận ra rằng:
