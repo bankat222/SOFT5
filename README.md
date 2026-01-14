@@ -53,4 +53,4 @@ Bài thực hành giúp em:
 
 
 ## Tuần 2: Kiểm thử phần mềm với JUnit
-👉 [Xem báo cáo và mã nguồn bài tập Tuần 2 tại đây](./unit-test/README.md)
+👉 [Xem báo cáo và mã nguồn bài tập Tuần 2 tại đây](https://github.com/bankat222/StudentAnalyzer/blob/main/README.md))
